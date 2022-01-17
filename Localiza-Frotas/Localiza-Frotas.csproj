@@ -13,6 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Localiza_Frotas_Domain\Localiza_Frotas_Domain.csproj" />
     <ProjectReference Include="..\Localiza_Frotas_Infra\Localiza_Frotas_Infra.csproj" />
   </ItemGroup>
 
