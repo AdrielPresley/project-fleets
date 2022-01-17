@@ -2,7 +2,7 @@
 using Localiza_Frotas.Infra.EF;
 using Localiza_Frotas.Infra.Facade;
 using Localiza_Frotas.Infra.Repository;
-using Localiza_Frotas.Infra.Singleton;
+using Localiza_Frotas_Infra.Singleton;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
